@@ -1,0 +1,66 @@
+.main-header {
+    background-color:white;
+    width:960px;
+    height:80px;
+    border-color:#cccccc;
+    border-width: 2px;
+}
+
+.myname-header {
+    background-color: #4aaaa5;
+    display:block;
+    width:220px;
+    height:80px;
+    color:white;
+   position:fixed;
+   margin-left:100px;
+   
+}
+
+h1 {
+    color:white;
+    margin-left:32px;
+}
+
+/* Navbar link styles */
+ul {
+    list-style-type: none;
+    height:80px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid grey
+
+
+  }
+  
+  li {
+    float: right;
+
+  }
+  
+
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 28px 16px;
+    color:grey;
+
+  }
+  .linkbar1 {
+    width:1px;
+    height:13px;
+    display:block;
+    margin-top:-50px;
+    margin-left: 88%;
+    background-color:#D8D7D7;
+  }
+  .linkbar2 {
+    width:1px;
+    height:13px;
+    display:block;
+    margin-top:-13px;
+    margin-left:94%;
+    background-color:#D8D7D7;
+  }
