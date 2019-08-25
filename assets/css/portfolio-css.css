@@ -193,6 +193,14 @@ img {
     margin-top:360px;
 }
 
+.img6 {
+    position:absolute;
+    display: inline-block;
+    margin-left:300px;
+    margin-bottom:35px;
+    margin-top:360px;
+}
+
  .imgbox1 {
      
  position: relative;
@@ -255,6 +263,21 @@ background-color: #4aaaa5;
 }
 
 .imgbox5 {
+    position: relative;
+ margin-top: 105px;
+  width: 180px;
+  height:33px;
+  display: block;
+  color: white;
+  margin-left:0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-bottom: 30px;
+background-color: #4aaaa5;
+
+}
+
+.imgbox6 {
     position: relative;
  margin-top: 105px;
   width: 180px;
